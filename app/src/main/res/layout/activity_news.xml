@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    android:id="@+id/drawer_layout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+    <FrameLayout
+        android:id="@+id/appframe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:animateLayoutChanges="true"
+        />
+
+    <ExpandableListView
+        android:groupIndicator="@null"
+        android:id="@+id/dataListView"
+        android:indicatorLeft="200dp"
+        android:indicatorRight="240dp"
+        android:layout_width="240sp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/white"
+        android:choiceMode="singleChoice"
+        android:divider="@color/ColorPrimaryDarker"
+        android:dividerHeight="2dp"
+        android:childDivider="@color/ColorPrimaryDarker" />
+
+
+
+</android.support.v4.widget.DrawerLayout>

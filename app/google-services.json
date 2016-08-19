@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905520260211",
+    "firebase_url": "https://t24project-d4048.firebaseio.com",
+    "project_id": "t24project-d4048",
+    "storage_bucket": "t24project-d4048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905520260211:android:a40fdbaad07677ad",
+        "android_client_info": {
+          "package_name": "com.yoslabs.t24haber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905520260211-mqft6fjqfok3dl11venrnidu9f4tkulf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBa0ukRwqruP6w09zrUxBKOH8-VmZkIwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

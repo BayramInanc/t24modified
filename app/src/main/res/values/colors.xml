@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#017FC1</color>
+    <color name="ColorPrimaryDark">#015079</color>
+    <color name="ColorPrimaryTransDark">#cc015079</color>
+    <color name="ColorPrimaryDarker">#01324b</color>
+    <color name="white">#ffffff</color>
+    <color name="cs">#cccccc</color>
+    <color name="five">#555555</color>
+    <color name="one">#111111</color>
+    <color name="DarkTransparent">#55555555</color>
+    <color name="TransWhite">#99ffffff</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">T24haber</string>
+    <string name="log">Bir logo gözüktü</string>
+    <string name="splashAlert">Haber sitesi logosu üstte, uygulama bir saniye içerisinde yükleniyor</string>
+    <string name="news">Haberler</string>
+    <string name="reconnect">YENİDEN BAĞLAN</string>
+    <string name="noconnection">İnternet bağlantısı yok</string>
+    <string name="getnews">http://t24.com.tr/api/v3/stories.json?paging=</string>
+    <string name="getnewspage">http://t24.com.tr/api/v3/stories.json?story=</string>
+    <string name="getkats">http://t24.com.tr/api/v3/categories.json?type=story</string>
+    <string name="getbykats">http://t24.com.tr/api/v3/stories.json?category=</string>
+    <string name="shownewdataarrived">tane yeni haber, haber listenize eklendi, görmek için yukarıya çıkabilirsiniz</string>
+    <string name="share">Paylaş</string>
+    <string name="datanotfound">Veri İndirilemedi</string>
+    <string name="datanot">Veri indirilemedi, lütfen başka sayfalara geçiş yapınız</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
